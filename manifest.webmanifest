@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "فل كلين - FULL CLEAN LAUNDRY",
+  "short_name": "فل كلين",
+  "description": "نظام إدارة مغسلة فل كلين للطلبات والعملاء والمصروفات والفواتير",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f6f8",
+  "theme_color": "#123746",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
